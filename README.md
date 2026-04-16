@@ -1,4 +1,5 @@
 # REPUBLIKA SIMULATOR
+<img width="1086" height="231" alt="image" src="https://github.com/user-attachments/assets/9e98246d-fc2a-4525-83cb-ad3faf854fc5" />
 
 A Filipino political strategy game built in Python + Pygame.
 
