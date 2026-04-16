@@ -157,7 +157,7 @@ If you seize or rig your way to power:
   — Champion of the Masses (1907–1957)
 - All characters, politicians and events are **entirely fictional**
 - Philippine geography, place names and historical references are real
-- 
+- ALL SOUNDS AND SONGS ARE NOT AFFILIATED WITH A SPECIFIC MOVEMENT OR AGENDA
 # V1 coming soon
 
 # V0.1
