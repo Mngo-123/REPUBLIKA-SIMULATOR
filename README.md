@@ -160,6 +160,7 @@ If you seize or rig your way to power:
 - Philippine geography, place names and historical references are real
 - ALL SOUNDS AND SONGS ARE NOT AFFILIATED WITH A SPECIFIC MOVEMENT OR AGENDA
 # V1 coming soon
-
+#V0.2
+<img width="1269" height="1190" alt="image" src="https://github.com/user-attachments/assets/4b1350d0-a3d9-4646-8135-1078e0c3d17f" />
 # V0.1
 <img width="1338" height="1113" alt="Screenshot 2026-03-28 201907" src="https://github.com/user-attachments/assets/b534ac32-80e4-4919-a1a8-1846b6376e9c" />
