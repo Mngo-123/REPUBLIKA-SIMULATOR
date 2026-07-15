@@ -160,6 +160,7 @@ If you seize or rig your way to power:
 - All characters, politicians and events are **entirely fictional**
 - Philippine geography, place names and historical references are real
 - ALL SOUNDS AND SONGS ARE NOT AFFILIATED WITH A SPECIFIC MOVEMENT OR AGENDA
+# RELEASING ALL OLD VERSIONS OF THE GAME
 # V0.35 last version
 # V1 never coming out
 # V0.2
