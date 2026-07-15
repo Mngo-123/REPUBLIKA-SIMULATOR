@@ -161,7 +161,7 @@ If you seize or rig your way to power:
 - Philippine geography, place names and historical references are real
 - ALL SOUNDS AND SONGS ARE NOT AFFILIATED WITH A SPECIFIC MOVEMENT OR AGENDA
 # RELEASING ALL OLD VERSIONS OF THE GAME
-# V0.35 last version
+# V0.35 last version ( ui remake )
 # V1 never coming out
 # V0.2
 <img width="1269" height="1190" alt="image" src="https://github.com/user-attachments/assets/4b1350d0-a3d9-4646-8135-1078e0c3d17f" />
